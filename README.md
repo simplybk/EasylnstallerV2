@@ -2,7 +2,7 @@
 
 ## Want to help cover egress and storage costs? Consider donating [here!](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
 
-## Download [here](https://github.com/simplybk/EasylnstallerV2/blob/main/EasyInstaller%201.8.5.2%20Ender%20%26%20Blk.exe)!
+## Download [here](https://gofile.io/d/64fA10)!
 
 ### If the application doesn't open, [download .net runtime here.](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.16-windows-x64-installer)
 
