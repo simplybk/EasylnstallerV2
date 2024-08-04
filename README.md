@@ -1,6 +1,6 @@
 # EasyInstallerV2
 
-## Want to help cover egress and storage costs? Consider donating [here!](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
+## Make Sure, to disable your antivirus. ( Windows flags as a Virus because the owner does NOT have a verified license.
 
 ## Download [here](https://gofile.io/d/64fA10)!
 
