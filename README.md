@@ -1,6 +1,6 @@
 # EasyInstallerV2
 
-## Make Sure, to disable your antivirus. ( Windows flags as a Virus because the owner does NOT have a verified license.
+## ( Windows flags as a Virus because the owner does NOT have a verified license.
 
 ## Download [here](https://gofile.io/d/64fA10)!
 
